@@ -2,3 +2,4 @@
 
 - Singleton
 - Proxy
+- Prototype [*]
