@@ -4,4 +4,5 @@
 - Proxy Pattern
 - Prototype Pattern
 - Mixin Pattern
-- Flyweight Pattern [*]
+- Flyweight Pattern
+- Observer Pattern [*]
