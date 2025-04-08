@@ -9,5 +9,6 @@ const counter = {
     return --count;
   },
 };
+
 Object.freeze(counter);
 export { counter };
