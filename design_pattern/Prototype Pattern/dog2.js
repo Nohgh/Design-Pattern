@@ -6,10 +6,10 @@ class Dog2 {
     return `woof`;
   }
 }
-const dog1 = new Dog("Hoy");
-const dog2 = new Dog("Lookie");
-const dog3 = new Dog("Spot");
+const dog1 = new Dog2("Hoy");
+const dog2 = new Dog2("Lookie");
+const dog3 = new Dog2("Spot");
 
-Dog.prototype.play = () => console.log("Playting");
+Dog2.prototype.play = () => console.log("Playing");
 
 dog1.play();
